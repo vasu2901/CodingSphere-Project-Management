@@ -1,6 +1,6 @@
 # 🛠️ Project Management API – FastAPI
 
-This is a **FastAPI-based RESTful API** assement for CodingSphere. It supports user and admin authentication, and allows creating, updating, deleting, and retrieving projects with role-based access control using JWT authentication.
+This is a **FastAPI-based RESTful API** assessment for CodingSphere. It supports user and admin authentication and allows creating, updating, deleting, and retrieving projects with role-based access control using JWT authentication.
 
 ---
 
@@ -173,5 +173,11 @@ DELETE /projects/{project_id}
 Authorization: Bearer <admin-token>
 Content-Type: application/json
 ```
+
+### 📽️ Demo Video
+
+Watch the project in action:  
+🔗 [Click here to view the demo on Loom](https://www.loom.com/share/2d7a4ac18de44160b4af8b9b9e604103?sid=a370d4d0-6bae-4857-9e8c-e1dd081f8606)
+
 ---
 
